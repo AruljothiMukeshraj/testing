@@ -1,2 +1,3 @@
 # testing
-testing how github work
+- testing how github work
+- test for git fetch
